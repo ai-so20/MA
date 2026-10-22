@@ -1,0 +1,1 @@
+AI MATE clean rebuild. Verified direct image assets: hero.webp, detail.webp, family.webp. No SVG image indirection.
