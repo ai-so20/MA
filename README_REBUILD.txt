@@ -1,0 +1,1 @@
+Clean rebuild branch. Direct static image references only. Promote to main only after branch verification.
